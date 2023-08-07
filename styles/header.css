@@ -2,7 +2,7 @@
     background-color:var(--cor-do-cabecalho);
 }
 .container{
-   display: flex;
+   display:flex;
    aling-items:center;
 }
 .container_imagem,.container_frase{
