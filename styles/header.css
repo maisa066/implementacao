@@ -5,7 +5,7 @@
    display: flex;
    aling-items:center;
 }
-.container_titulo,.container_frase{
+.container_imagem,.container_frase{
    padding:1em;
 }
 .container_titulo,.container_frase{
